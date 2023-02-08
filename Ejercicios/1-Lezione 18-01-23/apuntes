@@ -1,0 +1,29 @@
+funzione input --> recive el valor como una string si lo uso para un calcolo metto un cast primero
+
+counter = 0
+
+while (counter <=10):
+    print(counter)
+    counter +=1
+#------------------------------
+
+prezzo = (input(''))
+prezzo = float(prezzo)
+if prezzo>=100 :
+    x = prezzo * 0.5
+    print("il prezzo finale è " +" "+ str(prezzo-x))
+else :
+    x = prezzo * 0.2
+    print("il prezzo finale è " +" "+ str( prezzo-x))
+
+a= (input(''))
+a=int(a)
+b= (input(''))
+b=int(b)
+
+if a>b :
+    print("il maggiore è" +" "+ str(a))
+elif a==b :
+    print("sono equali")
+else:
+    print("il maggiore è" +" " + str(b))

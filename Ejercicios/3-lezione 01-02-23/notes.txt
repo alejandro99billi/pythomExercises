@@ -1,0 +1,18 @@
+lezione scorsa ciclo while
+instruzione break-->finisce un ciclo
+continue--> esegue la iterazione succesiva
+
+ciclo for--> quando non sapiamo a priori quandi si finisce de iterar
+funcion range() -->
+for-Nested cicli annidati -->quando si fa una iterzione di una iterazione
+due cicli for diversi neccessitano di due contatori diversi
+
+stringa = "ciao"
+for carattere in stringa:
+    print(carattere)
+
+
+for numero in range(5):
+    print(numero)
+
+end="" fine rigaa
