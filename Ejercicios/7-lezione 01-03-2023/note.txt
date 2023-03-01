@@ -1,0 +1,5 @@
+POO
+__init__ per inizialiare una clase
+
+tr - execption per la gestione degli errore
+in python c'è lo finally
